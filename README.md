@@ -13,7 +13,7 @@ Fiori T-Codes
 https://scn.sap.com/community/fiori/blog/2015/10/20/list-of-useful-sap-fiori-tcodes
 
 NW GW T-Codes
-https://scn.sap.com/community/fiori/blog/2015/10/20/list-of-useful-sap-fiori-tcodes
+http://scn.sap.com/community/gateway/blog/2013/03/26/netweaver-gateway-t-code-summary
 
 FQA: Fiori
 https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&sqi=2&ved=0ahUKEwje8e3NwYvMAhXG7Q4KHSYlD9QQFgg5MAI&url=http%3A%2F%2Fwww.sdn.sap.com%2Firj%2Fscn%2Findex%3Frid%3D%2Flibrary%2Fuuid%2Fd0ab36d0-ce31-3110-2fb9-bb7fe2e67834%26overridelayout%3Dtrue&usg=AFQjCNFjKxpn7tLb_qPg7ogcsOHjb6-3Ug&bvm=bv.119408272,d.ZWU&cad=rja
